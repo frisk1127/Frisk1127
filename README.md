@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Frisk1127&show_icons=true"
+  src="https://github-readme-stats-one-bice.vercel.app/api?username=Frisk1127&show_icons=true"
   alt="GitHub Status"
 />
